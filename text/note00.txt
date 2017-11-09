@@ -1,0 +1,131 @@
+md d
+jb b
+fr r
+mddm frrf mdd jbj frrffrrfrf
+jbbj mddm jbb frf mddmmddmdm
+frrf jbbj frr mdm jbbjjbbjbj
+Qiao-MBP:lyrics qiaolin$ python consonant_diagraph_blend.py
+mf f
+qk k
+hq q
+mffm hqqh mff qkq hqqhhqqhhqqh
+qkkq mffm qkk hqh mffmmffmmffm
+hqqh qkkq hqq mfm qkkqqkkqqkkq
+Qiao-MBP:lyrics qiaolin$ python consonant_diagraph_blend.py
+wl l
+qc c
+dr r
+wllw drrd wll qcq drrddrrd
+qccq wllw qcc drd wllwwllw
+drrd qccq drr wlw qccqqccq
+Qiao-MBP:lyrics qiaolin$ python consonant_diagraph_blend.py
+Qiao-MBP:lyrics qiaolin$ python consonant_diagraph_blend.py
+ sp trsp tr
+    trrtrt   trrtrt
+trr  trr   spp trt   trtshr scrshr scr
+    scrrcsshrr   scrrcsshrr
+scrrcs  scrrcs   scrs shrr   scrrcssh chsh ch
+    chhcshhs   chhcshhs
+chhc  chhc   chc shhs   shhs
+None
+ gl wrgl wr
+    gllgwrr   gllgwrr
+gllg  gllg   gllg wrr   gllscr thrscr thr
+    thrtthrrht   thrtthrrht
+thrt  thrt   scrrcs thrrht   scrrcsch twch tw
+    twwchh   twwchh
+tww  tww   twwt chh   twwt
+None
+wwww smms www ymy smmssmms
+ymmy wwww ymm sms wwwwwwww
+smms ymmy smm www ymmyymmy
+None
+ tr sttr st
+    trrttrrt   trrttrrt
+trrt  trrt   stts trrt   trrstr scrstr scr
+    strsstrrts   strsstrrts
+strs  strs   scrr strrts   scrrsn chsn ch
+    chcchc   chcchc
+chc  chc   chh chc   chh
+None
+ wr blwr bl
+    wrrwbllb   wrrwbllb
+wrrw  wrrw   bllb bllb   bllbstr scrstr scr
+    strrtsscrr   strrtsscrr
+strrts  strrts   strr scrr   strrtswh twwh tw
+    whhwwhhw   whhwwhhw
+whhw  whhw   twt whhw   whh
+None
+gwwg pmmp gww mnm pmmppmmp
+mnnm gwwg mnn pmp gwwggwwg
+pmmp mnnm pmm gwg mnnmmnnm
+None
+ pl brpl br
+    pllppllp   pllppllp
+pllp  pllp   brrb pllp   pllscr thrscr thr
+    scrrthrrht   scrrthrrht
+scrr  scrr   scrrcs thrrht   thrrhtsw ngsw ng
+    ngnsww   ngnsww
+ngn  ngn   sws sww   ngn
+None
+ fl drfl dr
+    fllfdrrd   fllfdrrd
+fllf  fllf   drrd drrd   drrscr strscr str
+    strsstrs   strsstrs
+strs  strs   scrr strs   strssc whsc wh
+    whhscc   whhscc
+whh  whh   scs scc   whw
+None
+qggq gyyg qgg tmt gyyggyyg
+tmmt qggq tmm gyg qggqqggq
+gyyg tmmt gyy qgq tmmttmmt
+None
+Qiao-MBP:lyrics qiaolin$ python consonant_diagraph_blend.py
+ sl blsl bl
+    blbsls   blbsls
+blb  blb   slls sls   bllbthr scrthr scr
+    thrtthrr   thrtthrr
+thrt  thrt   thrr thrr   scrstw chtw ch
+    chhchh   chhchh
+chh  chh   chhc chh   tww
+ bl flbl fl
+    flfblb   flfblb
+flf  flf   blb blb   blbspr splspr spl
+    sprssprs   sprssprs
+sprs  sprs   sprs sprs   spllpssw thsw th
+    thtsws   thtsws
+tht  tht   sww sws   tht
+ymmy wmmw ymm jnj wmmwwmmw
+jnnj ymmy jnn wmw ymmyymmy
+wmmw jnnj wmm ymy jnnjjnnj
+Traceback (most recent call last):
+  File "consonant_diagraph_blend.py", line 125, in <module>
+    song_00()
+  File "consonant_diagraph_blend.py", line 119, in song_00
+    stance_str = '\n\n'.join(stance)
+TypeError: sequence item 0: expected string, NoneType found
+Qiao-MBP:lyrics qiaolin$ python consonant_diagraph_blend.py
+ fl wrfl wr
+    wrrwwrrw   wrrwwrrw
+wrrw  wrrw   fll wrrw   fllfshr splshr spl
+    shrrhsshrrhs   shrrhsshrrhs
+shrrhs  shrrhs   shrs shrrhs   shrrhssk swsk sw
+    swwssks   swwssks
+swws  swws   swws sks   skks
+ sp smsp sm
+    smsspp   smsspp
+sms  sms   sps spp   smmsshr sprshr spr
+    shrrhsshrrhs   shrrhsshrrhs
+shrrhs  shrrhs   shrr shrrhs   shrrsw sksw sk
+    swwskk   swwskk
+sww  sww   sks skk   sks
+tsst wnnw tss tnt wnnwwnnw
+tnnt tsst tnn wnw tssttsst
+wnnw tnnt wnn tst tnnttnnt
+[None, None, None]
+Traceback (most recent call last):
+  File "consonant_diagraph_blend.py", line 125, in <module>
+    song_00()
+  File "consonant_diagraph_blend.py", line 119, in song_00
+    stance_str = '\n\n'.join(stance)
+TypeError: sequence item 0: expected string, NoneType found

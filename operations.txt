@@ -1,0 +1,60 @@
+intro
+verse
+pre_chorus
+chorus
+verse
+pre_chorus
+chorus
+bridge
+verse
+chorus
+outro
+
+
+# repetition
+    td mh td mh
+    ss mm ss ss
+    ssm smm msm
+
+# variation
+    td mh td mh
+    mh td md td
+    td td md md
+
+# mutation
+    mm mh hh mm
+    mh mm h h h
+
+
+# two two - four
+    # ch sz cshz
+    # ch ch chsz
+    xcz cv bh nk mkkl
+    plk plkj kjh ghj fgt wqd
+    fsj fds fgh
+
+# elongation
+t tz tzg tzgh
+t st tsg tzst
+
+
+# dwindling
+rrsk rrsk sk t t
+
+
+# a walk on the qwerty keyboard, neighbor tones
+    t d b tdb db db hbd
+    ghb ghy ght gty
+    frt frg fbv bhn
+    mnv jkfd sdfg dfgh fghj ghjk jkl
+    zxc xcvvb vvbn bnmm nmm nmm nm
+
+    qwr qwrrt qwrrty ty typ
+    sssd sddf sddf dd ddfg hjjk kl k k
+    zx zx zxcccvbn vnm
+
+
+# alphabetical consonants
+    bc df
+    gh jkl mn
+    pqrs tv wxzy
